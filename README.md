@@ -12,8 +12,10 @@ Books for becoming great Software Engineer
 * [Distributed Systems](#distributed-systems)
 * [Docker](#docker)
 * [Kubernetes](#kubernetes)
+* [DevOps](#devop)
 * [Kafka](#kafka)
 * [Software Engineering](#software-engineering)
+* [Project Management](#Project-management)
 * [Software Architecture](#software-architecture)
 
 ## Algorithms & Data Structures
@@ -80,6 +82,10 @@ Books for becoming great Software Engineer
 * [Kubernetes Up & Running - Dive into the Future of Infrastructure](https://tanzu.vmware.com/content/ebooks/kubernetes-up-running-dive-into-the-future-of-infrastructure)
 * [Production Kubernetes](https://tanzu.vmware.com/content/ebooks/production-kubernetes)
 
+## DevOps
+* [The Phoenix Project](https://itrevolution.com/book/the-phoenix-project/)
+* [The DevOps Handbook, Second edition](https://itrevolution.com/the-devops-handbook/)
+
 ## Kafka
 * [Kafka: The Definitive Guide v2](https://www.confluent.io/resources/kafka-the-definitive-guide-v2/)
 
@@ -93,6 +99,13 @@ Books for becoming great Software Engineer
 * [Clean Craftsmanship](https://www.pearson.com/store/p/clean-craftsmanship/P100003034692/9780136915713)
 * [Clean Agile - Back to Basics](https://www.oreilly.com/library/view/clean-agile-back/9780135782002/)
 * [Agile Testing](https://agiletester.ca)
+
+## Project Management
+* [The Unicorn Project](https://itrevolution.com/the-unicorn-project/)
+* [Making Work Visible, 2nd Edition](https://itrevolution.com/making-work-visible-by-dominica-degrandis/)
+* [ACCELERATE](https://itrevolution.com/book/accelerate/)
+* [The Manager's Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/)
+* [The Art of Leadership](https://www.oreilly.com/library/view/the-art-of/9781492045687/)
 
 ## Software Architecture
 * [Fundamentals of Software Architecture](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
