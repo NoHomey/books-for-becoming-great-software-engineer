@@ -5,6 +5,7 @@ Books for becoming great Software Engineer
 * [Algorithms & Data Structures](#algorithms--data-structures)
 * [Object Oriented Programming](#object-oriented-programming)
 * [Testing](#testing)
+* [Functional Programming](#functional-programming)
 * [Fundamentals](#fundamentals)
 * [Databases](#databases)
 * [Interviews](#interviews)
@@ -35,6 +36,12 @@ Books for becoming great Software Engineer
 * [Growing Object-Oriented Software Guided by Tests](http://www.growing-object-oriented-software.com)
 * [Continuous Delivery - Reliable Software Releases through Build, Test, and Deployment Automation](https://www.oreilly.com/library/view/continuous-delivery-reliable/9780321670250/)
 * [The Art of Software Testing, 3rd Edition](https://www.oreilly.com/library/view/the-art-of/9781118133156/)
+
+## Functional Programming
+* [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
+* [SICP Distilled](http://www.sicpdistilled.com)
+* [Pragmatic Scala - Create Expressive, Concise, and Scalable Applications](https://pragprog.com/titles/vsscala2/pragmatic-scala/)
+* [Thinking with Types - Type-Level Programming in Haskell](https://thinkingwithtypes.com)
 
 ## Fundamentals
 * [Inside the Machine](https://www.oreilly.com/library/view/inside-the-machine/9781593271046/)
