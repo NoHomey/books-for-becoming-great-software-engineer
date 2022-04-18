@@ -50,6 +50,7 @@ Books for becoming great Software Engineer
 * [Inside the Machine](https://www.oreilly.com/library/view/inside-the-machine/9781593271046/)
 * [Operating Systems - Principles and Practice](https://ospp.cs.washington.edu)
 * [Operating Systems - Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+* [The Design And Implementation Of The Freebsd Operating System, Second edition](https://www.amazon.com/Design-Implementation-FreeBSD-Operating-System-dp-0321968972/dp/0321968972/ref=dp_ob_title_bk)
 * [Computer Networking - A Top-Down Approach, 7th Edition](https://www.pearson.com/us/higher-education/program/Kurose-Computer-Networking-A-Top-Down-Approach-7th-Edition/PGM1101673.html)
 * [Java Concurrency in Practice](https://jcip.net)
 
