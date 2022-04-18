@@ -44,6 +44,7 @@ Books for becoming great Software Engineer
 * [SICP Distilled](http://www.sicpdistilled.com)
 * [Pragmatic Scala - Create Expressive, Concise, and Scalable Applications](https://pragprog.com/titles/vsscala2/pragmatic-scala/)
 * [Thinking with Types - Type-Level Programming in Haskell](https://thinkingwithtypes.com)
+* [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
 
 ## Fundamentals
 * [Inside the Machine](https://www.oreilly.com/library/view/inside-the-machine/9781593271046/)
