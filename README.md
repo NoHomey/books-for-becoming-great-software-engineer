@@ -75,6 +75,7 @@ Books for becoming great Software Engineer
 * [Designing Data-Intensive Applications](https://dataintensive.net)
 * [Understandin Distributed Systems](https://understandingdistributed.systems)
 * [Designing Distributed Systems](https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638/)
+* [Enterprise Integration Patterns - Designing, Building, and Deploying Messaging Solutions](https://www.oreilly.com/library/view/enterprise-integration-patterns/0321200683/)
 
 ## Docker
 * [THE DOCKER BOOK](https://dockerbook.com/)
